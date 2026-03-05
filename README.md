@@ -1,16 +1,27 @@
-## Hi there 👋
+# Oscar Gala Grano
 
-<!--
-**oscargala/oscargala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering leader and builder. I spend my days leading engineering teams
+and my evenings tinkering with self-hosted infrastructure, local AI, and
+civic tech.
 
-Here are some ideas to get you started:
+I believe in privacy-first, local-first technology — owning your data,
+understanding your tools, and building things that matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+- **[Jarvis](https://github.com/oscargala/jarvis)** — A self-hosted AI
+assistant using Signal, Ollama, and Home Assistant. Hybrid local/cloud
+LLM routing, because not everything needs to leave your house.
+- **[NH Legislature Accessibility](https://github.com/oscargala/nh-legislature-accessibility)**
+— A civic tech experiment to make NH legislative hearings more accessible.
+Abandoned when someone shipped a better solution.
+
+## What I care about
+
+Open source. Democracy. Privacy. Building tools that give people more
+control over their lives, not less.
+
+## Elsewhere
+
+- 🌐 [oscargala.com](https://oscargala.com)
+- 💼 [LinkedIn](https://linkedin.com/in/oscargala)
